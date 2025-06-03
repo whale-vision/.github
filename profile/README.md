@@ -26,8 +26,9 @@ Our flagship application uses neural networks to recognise individual whales fro
 
 ## 📦 Projects
 
-- [**Whale Vision Application**](https://github.com/whale-vision/application) – The Electron & React.js desktop app
-- [**Identifier Backend**](https://github.com/whale-vision/identifier) – Neural network backend for image processing
+- [**Whale Vision Application**](https://github.com/whale-vision/application) – The user-friendly Electron & React.js desktop app
+- [**Identifier Backend**](https://github.com/whale-vision/identifier) – A stand alone neural network backend for image processing, built in to our Whale Vision application
+- [**Network Training**](https://github.com/whale-vision/identifier-training) - Our training code for both the cropping and feature extraction stages of our identification pipeline
 
 
 ## 📚 Scientific Context
