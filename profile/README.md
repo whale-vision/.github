@@ -31,12 +31,6 @@ Our flagship application uses neural networks to recognise individual whales fro
 - [**Network Training**](https://github.com/whale-vision/identifier-training) - Our training code for both the cropping and feature extraction stages of our identification pipeline
 
 
-## License
-
-This project, and all repositories, are licensed under the MIT License.  
-See the [LICENSE](../LICENSE) file for details.
-
-
 ## 📚 Scientific Context
 
 > “Whale Vision: A Tool for Identifying Sperm Whales and Other Cetaceans by Their Flank or Fluke”  
@@ -49,5 +43,10 @@ See the [LICENSE](../LICENSE) file for details.
 We welcome contributions, collaborations, and new ideas!  
 Explore our repositories, open issues, or get in touch to help advance marine conservation with technology.
 
-
 **🐋 Whale Vision — AI for Ocean Conservation**
+
+
+## License
+
+This project, and all repositories, are licensed under the MIT License.  
+See the [LICENSE](../LICENSE) file for details.
